@@ -37,5 +37,5 @@ download this file from github
 این فایل را از گیت هاب دانلود کنید
 2.
 فایل دریافت شده را باز کرده ابتدا پیش نیاز هارا نصب و اماده کنید سپس با یک کامپایلر اجرا کرده و لذت ببربید!
-secund.download requiments  and run code with an compiler and enjoy that!
+second,download requiments  and run code with an compiler and enjoy that!
 
