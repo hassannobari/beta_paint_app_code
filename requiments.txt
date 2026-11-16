@@ -1,0 +1,4 @@
+python 3
+numpy
+open-Cv
+jupyter-notebook(for best result)
